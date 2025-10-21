@@ -15,4 +15,6 @@ body {
 .kartu-profil img {
   width: 150px
   border-radius: 50%; /* trik untuk membuat persegi panjang menjadi lingkaran */
+   text-align: center;
 }
+
